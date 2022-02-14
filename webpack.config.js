@@ -17,7 +17,6 @@ module.exports = {
     'semantic-ui-react': 'semanticUIReact',
   },
 
-    rules: [
       // ES6 / React
       {
         exclude: /node_modules/,
