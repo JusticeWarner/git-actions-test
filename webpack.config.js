@@ -17,7 +17,6 @@ module.exports = {
     'semantic-ui-react': 'semanticUIReact',
   },
 
-  module: {
     rules: [
       // ES6 / React
       {
