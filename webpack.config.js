@@ -19,11 +19,7 @@ module.exports = {
 
       // ES6 / React
       {
-        exclude: /node_modules/,
-        include: path.resolve('client/src'),
-        test: /\.jsx$|\.js$/,
-        use: [
-          { loader: 'babel-loader' },
+        e
         ],
       },
       // Semantic UI LESS
